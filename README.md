@@ -2,26 +2,31 @@
 
 Typly is a next-gen chat app developed with Jetpack Compose and Firebase. It includes everything you'd expect from a modern messaging platform: real-time conversations with typing indicators, searchable chat history, push notifications, voice calling, and secure AES-encrypted tokens. Designed with glassmorphic aesthetics and built on clean architecture principles, Typly is not just a demo, it’s a complete, production-ready messaging experience.
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4e6e56c5-e293-4d51-acf2-65a440c65f25" /> 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0147c1a6-ef4b-4423-a81c-88e7b2786b69" />
 
 ## >🖼️Screenshots
 
 <h3>🚀 Onboarding Screens</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b1827dfd-a1e8-4500-812f-4a5ec498fcc2" width="220" />
-  <img src="https://github.com/user-attachments/assets/23bd743f-0363-4c2b-82a1-64935e78725d" width="220" />
-  <img src="https://github.com/user-attachments/assets/985baa9d-f27e-4b03-895d-33349e76dc8d" width="220" />
+  <img src="https://github.com/user-attachments/assets/bb532d7f-c9bd-4fd7-b402-0aa91a0f5a84" width="220" />
+  <img src="https://github.com/user-attachments/assets/c8fd37cd-c5ee-40ef-a24d-acef95aa80b7" width="220" />
+  <img src="https://github.com/user-attachments/assets/54e164ed-89b6-47d6-aa86-b655cbabedf6" width="220" />
+  <img src="https://github.com/user-attachments/assets/c8ddfa7a-4386-4aa9-b05a-786b884ee8bf" width="220" />
 </p>
 
 <h3>🔐 Authentication</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8557ee35-f7d6-4039-bd52-8b14cc8566ec" width="220" />
+  <img src="https://github.com/user-attachments/assets/dd8f9606-3947-44f3-a583-45a856c25615" width="220" />
+  <img src="https://github.com/user-attachments/assets/ec1caa73-fbee-409f-a0f5-ebb52265a2ee" width="220" />
+
 </p>
 
 <h3>💬 In-App Experience</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/65173abb-1528-4026-ad94-f2714d782262" width="220" />
-  <img src="https://github.com/user-attachments/assets/150ea867-79ef-49a9-be1f-bcd6ed6a559e" width="220" />
+  <img src="https://github.com/user-attachments/assets/13a271bd-3efd-4663-ae30-b88c7dcd8539" width="220" />
+  <img src="https://github.com/user-attachments/assets/04a47fac-3e0a-4019-85f3-8072c170c648" width="220" />
+  <img src="https://github.com/user-attachments/assets/64e895bc-ff46-41c5-95d0-b2a6f44a12f8" width="220" />
+  <img src="https://github.com/user-attachments/assets/e97be8b9-7e21-4600-aea3-cd19db49d547" width="220" />
 </p>
 
 
