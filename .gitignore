@@ -1,0 +1,47 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Keep gradle.properties since it now only contains safe build settings
+
+# Firebase & Google Services - SENSITIVE!
+app/google-services.json
+google-services.json
+
+# Local configuration with secrets
+local.properties
+
+# Security & API Keys
+*.keystore
+*.jks
+app/signing/
+signing/
+
+# Local environment files
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
